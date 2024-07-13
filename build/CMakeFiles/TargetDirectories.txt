@@ -1,0 +1,3 @@
+/home/prodigytrip/Desktop/F407/build/CMakeFiles/STM32F407_Project.elf.dir
+/home/prodigytrip/Desktop/F407/build/CMakeFiles/edit_cache.dir
+/home/prodigytrip/Desktop/F407/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "git.autofetch": true,
+    "lldb.suppressUpdateNotifications": true,
+    "STM32VSCodeExtension.projectCreator.executablePath": "c:\\Program Files\\STMicroelectronics\\STM32Cube\\STM32CubeMX\\STM32CubeMX.exe",
+    "files.associations": {
+        "stm32f4xx_hal.h": "c"
+    }
+}
